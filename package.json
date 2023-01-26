@@ -1,0 +1,12 @@
+{
+  "name": "orca-msol-amount",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yugure-orca/orca-msol-amount.git",
+  "author": "yugure <109891005+yugure-orca@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@orca-so/whirlpools-sdk": "0.8.0",
+    "node-fetch": "2.6.7"
+  }
+}
