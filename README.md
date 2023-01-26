@@ -1,7 +1,7 @@
 # what is this
 this script shows the total deposited amount of mSOL in Orca Whirlpools.
 
-# usaage
+# usage
 1. clone this repo
 2. yarn install
 3. edit RPC server described in src/check_orca_msol_amount.ts (if needed)
